@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /
+Sitemap: https://www.wunder.kz/sitemap.xml
+Host: https://www.wunder.kz
